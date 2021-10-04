@@ -8,7 +8,8 @@ https://elmas3.github.io/mao-seminar/
  エルマス  
  わかば  
  テスト  
- AAAAA
+ AAAAA  
+ CCCCC  
 
 # ディレクトリ構成
 ```
